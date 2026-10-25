@@ -4,6 +4,9 @@
   </a>
 </p>
 
+<p align="center">
+ <a href=https://suguru-geto.atabook.org/> ata.book</a>
+
 
 <p align="center">
 Hi! Call me crab or anything you'd like. <img width="55" height="57" alt="image" src="https://github.com/user-attachments/assets/52ddb6b6-647e-42cf-8029-edbd4e8a5daf" />
