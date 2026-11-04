@@ -1,4 +1,7 @@
 <p align="center">
+I will make all natlan characters dw dw
+
+<p align="center">
 <img width="236" height="236" alt="gif" src="https://github.com/user-attachments/assets/8def9178-aeec-4782-ab79-215fb6c8ca3d" />
 
 
