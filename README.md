@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
- <a href=https://suguru-geto.atabook.org/> ata.book</a>
+ <a href=https://crablunch.atabook.org/> ata.book</a>
 
 
 <p align="center">
