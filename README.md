@@ -1,3 +1,22 @@
+ <div align="center">
+<details>
+  <summary> Oomfs</summary>
+  <br>
+
+  <div align="center">
+  <table>
+  <tr>
+    <th>
+Ramen - N1L0U - Rei - rain
+  </a>
+</p>
+    </th>
+  </tr>
+  </table>
+</details>
+</div>
+
+
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=316x3ee2a73zalu7xvgh2gde5jxa&redirect=true">
