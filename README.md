@@ -7,7 +7,9 @@
   <table>
   <tr>
     <th>
-Ramen - N1L0U - Rei - rain
+Ramen - N1L0U 
+  Rei - rain 
+ 𝘴𝘭𝘦𝘦𝘱𝘺𝘧𝘢𝘵𝘦 
   </a>
 </p>
     </th>
